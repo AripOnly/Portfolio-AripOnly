@@ -1,6 +1,6 @@
-# Portofolio Mas Arip
+# Portofolio AripOnly
 
-Halo! Saya Arip, seorang pemula yang sedang belajar menjadi web developer.
+Halo! Saya AripOnly, seorang pemula yang sedang belajar menjadi web developer.
 
 ## Proyek
 1. **Form Kontak (PHP)** — Simpan pesan ke file `.txt`
